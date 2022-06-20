@@ -63,8 +63,14 @@
                 <mxCell id="27" value="array2[count] = name[i]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="470" y="265" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="array[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="700" y="265" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
